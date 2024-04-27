@@ -9,7 +9,7 @@ int main() //this is main function
     printf("Enter the width of the rectangle: ");
     scanf("%f", &width);
 
-    area = length * width;
+    area = length * width; //this is the logic for calculation of area
 
     printf("The area of the rectangle is: %.2f\n", area);
     printf("By Chirag rai\n");
