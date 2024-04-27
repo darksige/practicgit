@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() 
+int main() //this is main function
 {
     float length, width, area;
 
